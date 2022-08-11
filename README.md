@@ -1,1 +1,14 @@
-# common-README-Wiki-Tracking
+# moto-common Project
+The moto-common project aims to goal is to support AOSP development for all Motorola devices under a common tree. This makes bringups of new Motorola devices easier and allows fixes to be shared throughout all supported targets. 
+
+## Device Support
+Support for devices is added as long as a developer steps up to create the initial trees, further development from there is trivial. As part of the moto-common project, scripts handle the detection of fingerprint and some other device specific hardware in order to make bringups and device maintainence easier.
+
+### Is my device supported?
+You can check here for functionaility status.
+
+## Copyrights
+Copyright (C) LineageOS Modded Project/Electimon 2022
+
+Copyright (C) Sony Mobile Communications 2014
+
