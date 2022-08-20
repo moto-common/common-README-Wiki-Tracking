@@ -5,7 +5,17 @@ The moto-common project aims to goal is to support AOSP development for all Moto
 Support for devices is added as long as a developer steps up to create the initial trees, further development from there is trivial. As part of the moto-common project, scripts handle the detection of fingerprint and some other device specific hardware in order to make bringups and device maintainence easier.
 
 ### Is my device supported?
-You can check here for functionaility status.
+| Device | Codename |
+|-|:-:|
+| Moto G8/G Fast (2020) | rav |
+| Moto G Power (2020) | sofia |
+| Moto G Stylus / G Pro (2020) | sofiap |
+| Moto G8 Power | sofiar |
+| Moto G Stylus 2021 5G | denver |
+| Moto G40/G60 | hanoip |
+| Moto G50 | ibiza |
+| Moto G30 | caprip |
+| Moto G Play 2021 | guamna |
 
 ## Copyrights
 Copyright (C) LineageOS Modded Project/Electimon 2022
