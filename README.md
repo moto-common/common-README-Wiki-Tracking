@@ -7,11 +7,11 @@ Support for devices is added as long as a developer steps up to create the initi
 ### Is my device supported?
 | Device | Codename |
 |-|:-:|
-| Moto G8/G Fast (2020) | rav |
-| Moto G Power (2020) | sofia |
-| Moto G Stylus / G Pro (2020) | sofiap |
-| Moto G8 Power | sofiar |
-| Moto G Stylus 2021 5G | denver |
+| Moto G8/G Fast (2020) | amogus |
+| Moto G Power (2020) | amogus |
+| Moto G Stylus / G Pro (2020) | amogus |
+| Moto G8 Power | amogus |
+| Moto G Stylus 2021 5G | denver|osaka |
 | Moto G40/G60 | hanoip |
 | Moto G50 | ibiza |
 | Moto G30 | caprip |
